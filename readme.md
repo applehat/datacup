@@ -1,4 +1,6 @@
 # DataCup💦
+WIP: I don't actually know Java.
+
 A partial Java / Springboot port of [DataPond](https://github.com/applehat/datapond)
 
 ### Why?
@@ -14,6 +16,9 @@ Request documents from the DataCup.
 |type|`item`|The type of document to request. Defaults to `item`|
 |page|`1`|The page of items you want.|
 |perPage|`10`|The number of items you want per page. Defaults to `10`. Only works if page is explicitly set.|
+
+## [GET] `/documents/{id}`
+Request a single document by id
 
 ## [POST] `/documents`
 

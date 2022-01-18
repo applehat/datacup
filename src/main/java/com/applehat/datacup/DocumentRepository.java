@@ -1,4 +1,4 @@
-package com.applehat.datacup
+package com.applehat.datacup;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
