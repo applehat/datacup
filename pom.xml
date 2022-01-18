@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.applehat</groupId>
-	<artifactId>datapond</artifactId>
+	<artifactId>datacup</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>datapond</name>
+	<name>datacup</name>
 	<description> A questionable way of storing and fetching JSON documents on the filesystem.</description>
 	<properties>
 		<java.version>11</java.version>

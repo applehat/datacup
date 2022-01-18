@@ -1,4 +1,4 @@
-package com.applehat.datapond;
+package com.applehat.datacup;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -17,5 +17,5 @@ public class DocumentController {
 		return new Document("fakeid", String.format(template, name), "foo");
 	}
 
-	
+
 }

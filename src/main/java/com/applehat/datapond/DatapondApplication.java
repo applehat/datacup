@@ -1,4 +1,4 @@
-package com.applehat.datapond;
+package com.applehat.datacup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
